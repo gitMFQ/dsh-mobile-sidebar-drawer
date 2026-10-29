@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Mobile sidebar drawer">
+  <rect x="4" y="8" width="56" height="48" rx="8" fill="#e8eefc"/>
+  <rect x="4" y="8" width="22" height="48" rx="8" fill="#247bbf"/>
+  <rect x="4" y="30" width="22" height="4" fill="#247bbf"/>
+  <rect x="32" y="18" width="22" height="4" rx="2" fill="#9db6d8"/>
+  <rect x="32" y="28" width="22" height="4" rx="2" fill="#9db6d8"/>
+  <rect x="32" y="38" width="14" height="4" rx="2" fill="#9db6d8"/>
+  <path d="M40 46l-5-4 5-4" fill="none" stroke="#247bbf" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

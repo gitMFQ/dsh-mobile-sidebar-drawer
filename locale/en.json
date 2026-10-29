@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Mobile sidebar drawer",
+    "description": "Turns the sidebar into an overlay drawer with a dimmed backdrop on narrow touch screens, plus header and floating open buttons, Escape and tap-outside closing."
+  }
+}
